@@ -16,7 +16,7 @@
 
 # About:
 
-   The Service Orders Board web app is a basic CRUD (create, read, update and delete) program. 
+   The Service Orders Board web app CRUD (create, read, update and delete) program. 
 Working in the restaurant industry, information has to travel fast and efficiantly.
 The digital service orders board does just that. Replacing the dry eraseboard, this 
 application provides a home page with a greeting to the user, present date and number 
