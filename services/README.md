@@ -1,4 +1,4 @@
-# Digitsl Service Orders Board
+# Digital Service Orders Board
 
 Requirements
 1. Python 3
