@@ -1,0 +1,17 @@
+{% extends 'base_layout.html' %}{% load static %}
+{% block content %}
+{% load static %}
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container"> 
+  	<script type="text/javascript" src="{% static 'orders/time.js' %}"></script><h1 class="display-4">{{ user }}</h1>
+  	<h1 class="display-4" id="time"></h1>
+  	<hr>
+    <h1 class="display-4">Service Orders: {{ count }}</h1>
+ </div4>	
+
+<hr>
+</div>
+
+
+{% endblock %}

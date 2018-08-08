@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<form class="form-horizontal" method="post" enctype="multipart/form-data">
+		{% csrf_token %}
+		{{ form.as_p}}
+	</form>
+</body>
+</html>
