@@ -6,7 +6,7 @@ Requirements
 3. Django 2.0
 
 
-#Instructions:
+# Instructions:
 1. Download source folder
 2. cd into service-orders
 3. Activate vitual env with 'source service_orders/bin/activate'
@@ -15,7 +15,7 @@ Requirements
 6. Now run 'python manage.py runserver'
 7. Open browswer on 'localhost:8000/orders'
 
-#Bio:
+# Bio:
 
 The web app is a basic CRUD( cretae, read, updtae and delete ) program. 
 Working in the rstaurant industry, information has to travel fast and efficiantly.
