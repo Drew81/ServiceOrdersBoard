@@ -15,16 +15,18 @@
 6. Now run `python manage.py runserver`
 7. Open browswer on `localhost:8000/orders`
 
-# Bio:
+# About:
 
-The web app is a basic CRUD(cretae, read, updtae and delete) program. 
-Working in the rstaurant industry, information has to travel fast and efficiantly.
+The web app is a basic CRUD (cretae, read, update and delete) program. 
+Working in the restaurant industry, information has to travel fast and efficiantly.
 The digital service orders board does just that. Replacing the dry eraseboard, this 
-application provides a home page with the user you logged in with, date and number of orders. The dashboard provides of
-creating, updating and deleting while the orders page provides just the info and progress tracking provided by the butlers 
-upon delivery.
+application provides a home page with a greeting to the user, present date and number of orders in the database. 
+The dashboard provides the the CRUD functionality while the orders page provides just the info and 
+progress tracking provided by the butlers upon delivery.
 
 I plan to buid more pages such as a details page, memos and chats which has already been implented in the structure.
+
+Contributers welcomed!
 
     
 
