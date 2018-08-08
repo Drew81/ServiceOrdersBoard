@@ -1,6 +1,6 @@
 # Digital Service Orders Board
 
-# Prerequisite:
+# Prerequisites:
 1. Python 3
 2. Virtual Enviornment
 3. Django 2.0
