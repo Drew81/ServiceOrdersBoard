@@ -1,6 +1,8 @@
 # Digital Service Orders Board
-<img width="785" alt="foro_img6" src="https://user-images.githubusercontent.com/26306948/56369872-2f835380-61c8-11e9-9333-2cc302a58d9a.png">
-<img width="951" alt="foro_img5" src="https://user-images.githubusercontent.com/26306948/56369871-2f835380-61c8-11e9-9251-989e272c4947.png">
+
+<img width="1124" alt="sob_img1" src="https://user-images.githubusercontent.com/26306948/56370204-cd771e00-61c8-11e9-8633-5d0374067e8d.png">
+<img width="1129" alt="sob_img2" src="https://user-images.githubusercontent.com/26306948/56370205-cd771e00-61c8-11e9-9a2f-c691d6dc28a0.png">
+
 
 # Prerequisites:
 1. Python 3
