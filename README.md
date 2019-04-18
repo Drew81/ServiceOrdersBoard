@@ -1,6 +1,7 @@
 # Digital Service Orders Board
-<img width="951" alt="foro_img5" src="https://user-images.githubusercontent.com/26306948/56369871-2f835380-61c8-11e9-9251-989e272c4947.png">
 <img width="785" alt="foro_img6" src="https://user-images.githubusercontent.com/26306948/56369872-2f835380-61c8-11e9-9333-2cc302a58d9a.png">
+<img width="951" alt="foro_img5" src="https://user-images.githubusercontent.com/26306948/56369871-2f835380-61c8-11e9-9251-989e272c4947.png">
+
 # Prerequisites:
 1. Python 3
 2. Virtual Enviornment
