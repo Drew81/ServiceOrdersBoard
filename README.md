@@ -1,5 +1,5 @@
 # Digital Service Orders Board
-<img width="1280" alt="Screen Shot 2019-04-18 at 10 29 20 AM" src="https://user-images.githubusercontent.com/26306948/56369052-999af900-61c6-11e9-8e25-f74f36ec8ea4.png">
+<img width="1280" alt="foro_img3" src="https://user-images.githubusercontent.com/26306948/56369598-aec45780-61c7-11e9-840e-4217b6932972.png">
 # Prerequisites:
 1. Python 3
 2. Virtual Enviornment
